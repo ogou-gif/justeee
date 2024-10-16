@@ -1,11 +1,11 @@
 {
   "name": "portfolio-of-jean",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "server.mjs",
   "scripts": {
     "build": "node build.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node server.mjs"
   },
   "keywords": [],
   "author": "",
